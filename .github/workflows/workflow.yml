@@ -1,4 +1,4 @@
-name : {IBM CI}
+name : IBM CI
 
 on:
     push:
